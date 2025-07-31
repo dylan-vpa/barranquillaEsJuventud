@@ -376,7 +376,7 @@ export default function InscripcionPage() {
                     <CheckCircle className="w-5 h-5 text-amber mt-1 flex-shrink-0" />
                     <div>
                       <h4 className="font-semibold">Bailatón Juvenil</h4>
-                      <p className="text-gray-300 text-sm">Bienestar físico y salud comunitaria con 'Baila y Toma Agua'</p>
+                      <p className="text-gray-300 text-sm">Bienestar físico y salud comunitaria con Baila y Toma Agua</p>
                     </div>
                   </div>
                   

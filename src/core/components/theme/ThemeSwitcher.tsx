@@ -4,8 +4,6 @@ import { useEffect, useState } from "react";
 //Components.
 import { Button } from "@/components/ui/button";
 import { useTheme } from "next-themes";
-//Utils(Interfaces).
-import { Laptop, Moon, Sun } from "lucide-react";
 
 //Theme Switcher
 export function ThemeSwitcher() {
