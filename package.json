@@ -1,5 +1,5 @@
 {
-  "name": "web-app-template",
+  "name": "barranquilla-es-juventud",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -20,7 +20,16 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.3.1",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "framer-motion": "^11.0.0",
+    "react-hook-form": "^7.50.0",
+    "@hookform/resolvers": "^3.3.0",
+    "zod": "^3.22.0",
+    "recharts": "^2.10.0",
+    "@radix-ui/react-dialog": "^1.1.0",
+    "@radix-ui/react-select": "^2.0.0",
+    "@radix-ui/react-tabs": "^1.1.0",
+    "@radix-ui/react-toast": "^1.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
