@@ -76,7 +76,7 @@ export default {
           DEFAULT: '#252525',
           dark: '#1f1f1f',
           light: '#404040',
-        }
+  			}
   		},
   		borderRadius: {
   			lg: 'var(--radius)',

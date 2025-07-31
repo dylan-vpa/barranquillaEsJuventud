@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "./globals.css";
-import { ThemeSwitcher } from "@/core/components/theme/ThemeSwitcher";
+import "./globals.css";;
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { Calendar, Users, BookOpen, BarChart3, Menu, X } from "lucide-react";
+import { Calendar, Users, BookOpen} from "lucide-react";
 
 const inter = Inter({ subsets: ["latin"] });
 

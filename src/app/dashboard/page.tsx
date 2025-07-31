@@ -10,16 +10,10 @@ import {
   GraduationCap, 
   Download,
   Search,
-  Filter,
   BarChart3,
   Eye,
   Edit,
   Trash2,
-  Plus,
-  TrendingUp,
-  Award,
-  Target,
-  Activity
 } from "lucide-react";
 
 export default function DashboardPage() {

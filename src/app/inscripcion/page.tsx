@@ -8,8 +8,6 @@ import {
   User, 
   Calendar, 
   GraduationCap, 
-  Mail, 
-  Phone, 
   CheckCircle,
   ArrowLeft,
   Star,
